@@ -1,7 +1,5 @@
 # menu-simples
 
-_Example
+Example
 
-```
 https://jhonatacosta.github.io/menu-simples/
-```
