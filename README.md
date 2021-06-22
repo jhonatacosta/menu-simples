@@ -3,6 +3,6 @@
 
 Example
 
-width menu - 600px
+width menu - 900px
 
 https://jhonatacosta.github.io/menu-simples/
